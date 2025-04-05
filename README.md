@@ -2,19 +2,18 @@ Hi there 👋
 
 ## Who I am?
 
-- 🧑‍💻 A Software Engineer based in **Bangalore, India** with 4+ years of experience.
+- 🧑‍💻 A Software Engineer based in **Delhi, India** with 2+ years of experience.
 - 🚀 Passionate about open-source, web performance, and developer tooling.
-- 🌟 Among the top 500 contributors on GitHub from India.
-- 📌 Check out my portfolio at [myportfolio.dev](https://myportfolio.dev)
+- 📌 Check out my portfolio at [harshraw.at](https://harshraw.at)
 
 ---
 
 ## What I'm doing?
 
-- ✍️ Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`.
+- ✍️ Writing `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`,`Python`.
 - 🧠 Exploring the world of AI & Machine Learning.
-- 💬 Actively sharing thoughts on [LinkedIn](https://linkedin.com), [Twitter](https://twitter.com), and [Dev.to](https://dev.to).
-- 🛠️ Currently building [CodeSnap.io](#), [StackUp CLI](#), and [VSCode TimeTracker](#).
+- 💬 Actively sharing thoughts on [Twitter](https://x.com/Harshrwt27)
+- 🛠️ Currently building [LearNoted](https://www.learnoted.com/founders-letter) and [GitHubFolio](githubfolio.com).
 - 🎨 Creating generative AI Art and 3D Visuals.
 
 ---
@@ -32,26 +31,24 @@ Hi there 👋
 ### 🧑‍🎨 Frontend _(I do frontend for fun!)_:
 
 - **Programming:** `JavaScript` • `TypeScript`
-- **Framework/Library:** `React.js` • `Next.js` • `Gatsby`
-- **UI Toolkit:** `MUI` • `Chakra UI`
+- **Framework/Library:** `React.js` • `Next.js`
+- **UI Toolkit:** `MUI` • `Chakra UI` • `shadcn`
 - **Styling:** `TailwindCSS` • `Modular CSS`
 
 ### 🛠 Ecosystem:
 
-- **Containerization:** `Docker` • `Rancher` • `GitHub Codespaces`
+- **Containerization:** `Docker` • `GitHub Codespaces`
 - **Version Control:** `Git` • `GitHub`
 - **CI/CD:** `GitHub Actions` • `CircleCI`
-- **Project Management:** `Jira` • `Trello` • `Notion`
+- **Project Management:** `Trello` • `Notion`
 
 ---
 
 ## How to reach me?
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Harshrwt27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-rawat-037a59202/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshrawat.dev@gmail.com)
 
 ---
 
